@@ -1,0 +1,14 @@
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\bin\Debug\net8.0\ConvertisseurTemperature.exe
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\bin\Debug\net8.0\ConvertisseurTemperature.deps.json
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\bin\Debug\net8.0\ConvertisseurTemperature.runtimeconfig.json
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\bin\Debug\net8.0\ConvertisseurTemperature.dll
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\bin\Debug\net8.0\ConvertisseurTemperature.pdb
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ConvertisseurTemperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ConvertisseurTemperature.AssemblyInfoInputs.cache
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ConvertisseurTemperature.AssemblyInfo.cs
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ConvertisseurTemperature.csproj.CoreCompileInputs.cache
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ConvertisseurTemperature.dll
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\refint\ConvertisseurTemperature.dll
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ConvertisseurTemperature.pdb
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ConvertisseurTemperature.genruntimeconfig.cache
+D:\Documentos\Esttudando para TI\C#\ConvertisseurTemperature\ConvertisseurTemperature\ConvertisseurTemperature\obj\Debug\net8.0\ref\ConvertisseurTemperature.dll
